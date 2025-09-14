@@ -35,7 +35,7 @@ Start the development server
 npm run dev
 
 
-Your app will be running at http://localhost:5173
+Your app will be running at gigs-worker-dashboard.vercel.app
 .
 
 📸 Preview
@@ -58,4 +58,5 @@ Linting: ESLint
 
 I wanted to create a functional dashboard that shows how React, Tailwind, and data visualization libraries can be combined into a clean and responsive app.
 It’s also part of my journey to sharpen my frontend development and UI design skills.
+
 
