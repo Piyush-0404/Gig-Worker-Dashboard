@@ -21,7 +21,7 @@ This project was created to practice frontend development with React while explo
 
 Clone the repository
 
-git clone https://github.com/your-username/Gig-Works-Dashboard.git
+git clone https://github.com/Piyush-0404/Gig-Worker-Dashboard.git
 cd Gig-Works-Dashboard
 
 
@@ -58,3 +58,4 @@ Linting: ESLint
 
 I wanted to create a functional dashboard that shows how React, Tailwind, and data visualization libraries can be combined into a clean and responsive app.
 It’s also part of my journey to sharpen my frontend development and UI design skills.
+
